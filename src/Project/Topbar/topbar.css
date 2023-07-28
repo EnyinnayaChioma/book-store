@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+  .cart-div{
+    position:relative;
+    
+    ;
+    
+  }
+
+.cart{
+    font-size: 30px;
+   
+}  
+
+.cart-badge{
+    position:absolute;
+    bottom: 18px;
+    right: -10px;
+    font-size: 10px;
+    
+    
+.signin-btn{
+    margin-left: 20px;
+}   
+}

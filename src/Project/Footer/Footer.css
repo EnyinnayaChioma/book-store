@@ -1,0 +1,87 @@
+
+.footerContainer{
+    border : 1px solid gray;
+}
+
+.footer-header{
+    color: yellow;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.footer-paragraph{
+    color : yellow;
+    font-weight : 500;
+    font-size: 15px;   
+}
+
+.footer-contact{
+    font-size: 12px;
+    color: gray;
+    text-align: left;
+    padding-left: 120px;
+}
+
+.footer-column{
+    font-size: 12px;
+    color: whitesmoke;
+}
+
+.footerLink{
+    color: gray;
+}
+
+.footerLink:hover{
+    text-decoration: underline;
+}
+
+.footer-inputgroup{
+    width: 70%;
+    margin-left: 70px;    
+}
+
+.footer-button:hover{
+    background-color: black ;
+}
+
+.top-footer{
+    background-color: rgba(0, 0, 0, 0.973);
+}
+
+.main-footer{
+    background-color: black;
+}
+
+.footer-dropdown{
+    color: black;
+}
+
+.footer-toggle{
+    color: gray;
+    background-color: black;
+    outline:  2px solid gray;
+}
+
+.footer-toggle:hover{
+    background-color: black;
+    border: 3px solid green;
+}
+
+.footer-menu{
+    font-size: 12px;
+    color : gray
+}
+
+.footer-terms{
+    padding-right: 8px;
+    font-size: 12px;
+}
+
+.footer-copyright{
+    font-size: 12px;
+}
+
+.footer-social-image{
+    height: 15px;
+    padding: 0 8px;
+}

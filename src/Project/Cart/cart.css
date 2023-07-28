@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.background{
+    background-image: url(./img/cart.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    
+}
